@@ -1,0 +1,110 @@
+[
+    {
+        "nombre": "Casiopea",
+        "descripcion": "Banda japonesa de jazz fusión fundada en 1976. Conocida por su virtuosismo instrumental y composiciones complejas, ha influido en el género a nivel internacional, lanzando más de 40 álbumes y realizando giras mundiales.",
+        "fecha": "1976",
+        "signo": "Resto del mundo",
+        "foto": ["CASIOPEA-1.jpg"],
+        "fotos": ["CASIOPEA-2.jpg", "CASIOPEA-3.jpg", "CASIOPEA-4.jpg"],
+        "github": "https://github.com/franki-rar"
+    },
+    {
+        "nombre": "Chick Corea Elektric Band",
+        "descripcion": "Formada en 1986 por el pianista Chick Corea, esta banda fusiona jazz y rock con elementos electrónicos. Su estilo innovador y el virtuosismo de sus miembros la convirtieron en una referencia del jazz fusión, destacando álbumes como 'Eye of the Beholder'.",
+        "fecha": "1986",
+        "signo": "EEUU",
+        "foto": ["CHICK-1.jpg"],
+        "fotos": ["CHICK-2.jpg", "CHICK-3.jpg", "CHICK-4.jpg"],
+        "github": "https://github.com/franki-rar"
+    },
+    {
+        "nombre": "Chinwezz",
+        "descripcion": "Banda argentina de neo-soul y jazz fusión formada recientemente por Tade Fonk y Francisco Iudica. Combina jazz con texturas electrónicas e influencias del hip-hop, ofreciendo una visión fresca al género. Su disco 'No tenés cara' (2021) es un ejemplo de su estilo desenfadado y espacioso.",
+        "fecha": "2021",
+        "signo": "Latino",
+        "foto": ["CHINWEZZ-1.jpg"],
+        "fotos": ["CHINWEZZ-2.jpg", "CHINWEZZ-3.jpg", "CHINWEZZ-4.jpg"],
+        "github": "https://github.com/franki-rar"
+    },
+    {
+        "nombre": "George Benson",
+        "descripcion": "Músico estadounidense reconocido por su habilidad en la guitarra jazz y su voz. Comenzó su carrera en los años 60, explorando jazz, soul y pop. Destaca por éxitos como 'Breezin'' y 'Give Me the Night', siendo una figura clave en el jazz crossover.",
+        "fecha": "1964",
+        "signo": "EEUU",
+        "foto": ["BENSON-1.jpg"],
+        "fotos": ["BENSON-2.jpg", "BENSON-3.jpg", "BENSON-4.jpg"],
+        "github": "https://github.com/franki-rar"
+    },
+    {
+        "nombre": "Hermeto Pascoal",
+        "descripcion": "Multiinstrumentista y compositor brasileño conocido por su creatividad y fusión de música tradicional brasileña, jazz y experimentación sonora. Apodado 'el mago', Pascoal es reconocido por utilizar cualquier objeto como instrumento, revolucionando la música de vanguardia en Brasil.",
+        "fecha": "1964",
+        "signo": "Latino",
+        "foto": ["HERMETO-1.jpg"],
+        "fotos": ["HERMETO-2.jpg", "HERMETO-3.jpg", "HERMETO-4.jpg"],
+        "github": "https://github.com/franki-rar"
+    },
+    {
+        "nombre": "Hiatus Kaiyote",
+        "descripcion": "Banda australiana de neo-soul formada en 2011. Su sonido combina elementos de soul, jazz, funk y electrónica. Han sido nominados a premios Grammy, y su estilo ha influido en la música contemporánea, ganando seguidores globales con álbumes como 'Choose Your Weapon'.",
+        "fecha": "2011",
+        "signo": "Resto del mundo",
+        "foto": ["HIATUS-1.jpg"],
+        "fotos": ["HIATUS-2.jpg", "HIATUS-3.jpg", "HIATUS-4.jpg"],
+        "github": "https://github.com/franki-rar"
+    },
+    {
+        "nombre": "Mário Laginha",
+        "descripcion": "Pianista portugués de jazz, conocido por su estilo sofisticado y colaboraciones con artistas como Maria João. Activo desde los años 80, ha experimentado con fado, música clásica y jazz moderno, aportando una voz única a la escena internacional del jazz.",
+        "fecha": "1980s",
+        "signo": "Resto del mundo",
+        "foto": ["MARIO-1.jpg"],
+        "fotos": ["MARIO-2.jpg", "MARIO-3.jpg", "MARIO-4.jpg"],
+        "github": "https://github.com/franki-rar"
+    },
+    {
+        "nombre": "Pat Metheny",
+        "descripcion": "Guitarrista y compositor estadounidense destacado en el jazz fusión desde 1974. Conocido por su sonido atmosférico y exploraciones armónicas, ha ganado varios premios Grammy y lanzado álbumes icónicos como 'Bright Size Life' y 'The Way Up'.",
+        "fecha": "1974",
+        "signo": "EEUU",
+        "foto": ["PAT-1.jpg"],
+        "fotos": ["PAT-2.jpg", "PAT-3.jpg", "PAT-4.jpg"],
+        "github": "https://github.com/franki-rar"
+    },
+    {
+        "nombre": "Robert Glasper",
+        "descripcion": "Pianista y productor estadounidense activo desde 2003. Con su 'Robert Glasper Experiment', ha sido pionero en la fusión de jazz, hip-hop, R&B y neo-soul. Su álbum 'Black Radio' ganó un Grammy, redefiniendo los límites del jazz moderno.",
+        "fecha": "2003",
+        "signo": "EEUU",
+        "foto": ["ROBERT-1.jpg"],
+        "fotos": ["ROBERT-2.jpg", "ROBERT-3.jpg", "ROBERT-4.jpg"],
+        "github": "https://github.com/franki-rar"
+    },
+    {
+        "nombre": "Spinetta Jade",
+        "descripcion": "Banda argentina de rock progresivo y jazz fusión liderada por Luis Alberto Spinetta, fundada en 1980. Con álbumes como 'Alma de Diamante', su música experimentó con la lírica poética y la complejidad musical, siendo un pilar del rock en español.",
+        "fecha": "1980",
+        "signo": "Latino",
+        "foto": ["JADE-1.jpg"],
+        "fotos": ["JADE-2.jpg", "JADE-3.jpg", "JADE-4.jpg"],
+        "github": "https://github.com/franki-rar"
+    },
+    {
+        "nombre": "Vinocio",
+        "descripcion": "Proyecto musical argentino formado recientemente por Lucio Memi y Fermín Carpena. Fusiona jazz con hip-hop, soul y R&B, ofreciendo una visión fresca al género. Su tercer álbum, 'Me estás haciendo mal', fue lanzado en vinilo en febrero de 2024.",
+        "fecha": "2021",
+        "signo": "Latino",
+        "foto": ["VINOCIO-1.jpg"],
+        "fotos": ["VINOCIO-2.jpg", "VINOCIO-3.jpg", "VINOCIO-4.jpg"],
+        "github": "https://github.com/franki-rar"
+    },
+    {
+        "nombre": "Yellowjackets",
+        "descripcion": "Banda estadounidense de jazz fusión formada en 1977. Destacados por su sonido sofisticado y una mezcla de jazz acústico y eléctrico, han lanzado numerosos álbumes aclamados, siendo una de las bandas más influyentes en el jazz contemporáneo.",
+        "fecha": "1977",
+        "signo": "EEUU",
+        "foto": ["YELLOW-1.jpg"],
+        "fotos": ["YELLOW-2.jpg", "YELLOW-3.jpg", "YELLOW-4.jpg"],
+        "github": "https://github.com/franki-rar"
+    }
+]
